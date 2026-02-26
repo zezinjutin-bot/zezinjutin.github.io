@@ -16,6 +16,17 @@ body{
     align-items: center;
     
 }
+
+h1{
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
 span {
     color: #191970
 }
