@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background:#0101a89f ;
+    color: #fafafa;
+    font-weight: bold;
+    
+}
+span {
+    color: #191970
+}
+
+button{
+    width:100%;
+    max-width: 640px;
+    height: ;
+    background: #22c55e;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    padding: 14px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
